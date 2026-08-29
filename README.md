@@ -21,5 +21,7 @@ I bridge the gap between complex software engineering, data systems, and human p
 ### 🪙 Sponsor My Work / Hire Me
 If you rely on my open-source data scripts, technical documentation tools, or want to lock in a monthly freelance contract, consider supporting me!
 
-👉 **[Sponsor Me on GitHub Sponsors](https://github.com)**  
+👉 **Sponsor My Work/ Hire Me** https://github.com/sponsors/owino-brian 
+
+---
 📨 **Direct Contract Inquiries:** brianowino47@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/owinobrian)
