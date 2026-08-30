@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Owino Brian Otieno
+# Hi, I'm Owino Brian Otieno
 
 **Full-Stack Developer | AI & Data Systems Specialist | Python & JavaScript Developer | Available for Contract Work**
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a versatile software developer with expertise in building intelligent systems, data applications, and interactive software. I specialize in:
 
@@ -16,9 +16,9 @@ I'm a versatile software developer with expertise in building intelligent system
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
-### 🤖 [AI Chatbot & Data Utilities](https://github.com/owino-brian/ai-chatbot-and-data-utilities)
+### [AI Chatbot & Data Utilities](https://github.com/owino-brian/ai-chatbot-and-data-utilities)
 A professional Streamlit-based chatbot with integrated data cleaning pipelines. Features live information retrieval from GitHub, Stack Overflow, Wikipedia, and more. Includes file upload workspace, dataset preview, and CSV export.
 
 **Tech:** Python, Streamlit, Pandas, Requests  
@@ -26,7 +26,7 @@ A professional Streamlit-based chatbot with integrated data cleaning pipelines. 
 
 ---
 
-### 🎮 [My Project Portfolio](https://github.com/owino-brian/my-project)
+### [My Project Portfolio](https://github.com/owino-brian/my-project)
 A comprehensive portfolio showcasing six independent projects spanning multiple domains:
 
 - **Cosmic Explorer** — Java 3D space exploration game with custom rendering engine
@@ -41,7 +41,7 @@ A comprehensive portfolio showcasing six independent projects spanning multiple 
 
 ---
 
-### 🧮 [Simple Calculator](https://github.com/owino-brian/Simple-Calculator)
+### [Simple Calculator](https://github.com/owino-brian/Simple-Calculator)
 A clean, accessible web calculator with professional-grade features. Single-file HTML/CSS/JS app using safe expression evaluation (no eval), keyboard support, and ARIA accessibility.
 
 **Tech:** HTML, CSS, JavaScript  
@@ -49,7 +49,7 @@ A clean, accessible web calculator with professional-grade features. Single-file
 
 ---
 
-### 📚 [Advanced Git Mastery](https://github.com/owino-brian/advanced-git-mastery)
+### [Advanced Git Mastery](https://github.com/owino-brian/advanced-git-mastery)
 Comprehensive guide to advanced Git commands beyond the basics. Covers stash, cherry-pick, revert, reset, rebase, reflog, bisect, and real-world workflows.
 
 **Tech:** Markdown documentation  
@@ -57,7 +57,7 @@ Comprehensive guide to advanced Git commands beyond the basics. Covers stash, ch
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python, JavaScript, Java, C, C++, HTML/CSS, SQL  
 **Frameworks & Libraries:** React, Streamlit, Pandas, Three.js, Pygame, Recharts  
@@ -66,7 +66,7 @@ Comprehensive guide to advanced Git commands beyond the basics. Covers stash, ch
 
 ---
 
-## 📊 Current Focus
+## Current Focus
 
 - Building production-ready data and AI applications
 - Creating documentation and educational resources
@@ -75,26 +75,26 @@ Comprehensive guide to advanced Git commands beyond the basics. Covers stash, ch
 
 ---
 
-## 💬 Services & Availability
+## Services & Availability
 
 I'm available for **contract work** on:
 
-✅ Custom chatbot and AI integrations  
-✅ Data pipeline automation and cleaning systems  
-✅ Full-stack web development (React + backend)  
-✅ 3D graphics and game development  
-✅ Software documentation and technical writing  
-✅ Data analysis and visualization  
-✅ Backend system design and optimization  
+-Custom chatbot and AI integrations  
+-Data pipeline automation and cleaning systems  
+-Full-stack web development (React + backend)  
+-3D graphics and game development  
+-Software documentation and technical writing  
+-Data analysis and visualization  
+-Backend system design and optimization  
 
 **Need a custom solution?**  
-📧 Email: brianowino47@gmail.com  
-💼 GitHub Sponsors: https://github.com/sponsors/owino-brian  
-🔗 LinkedIn: https://www.linkedin.com/in/owinobrian  
+Email: brianowino47@gmail.com  
+GitHub Sponsors: https://github.com/sponsors/owino-brian  
+LinkedIn: https://www.linkedin.com/in/owinobrian  
 
 ---
 
-## 📈 Recent Activity
+## Recent Activity
 
 - Built and deployed production Streamlit chatbot with live data retrieval
 - Developed comprehensive Git mastery guide for developers
@@ -103,7 +103,7 @@ I'm available for **contract work** on:
 
 ---
 
-## 🎯 Goals & Vision
+## Goals & Vision
 
 I'm passionate about building intelligent systems that solve real problems. My goal is to help teams and individuals:
 
@@ -114,7 +114,7 @@ I'm passionate about building intelligent systems that solve real problems. My g
 
 ---
 
-## 📞 Let's Connect
+## Let's Connect
 
 - **GitHub:** [@owino-brian](https://github.com/owino-brian)
 - **Email:** brianowino47@gmail.com
