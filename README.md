@@ -1,127 +1,151 @@
-# Hi, I'm Owino Brian Otieno
+# 👋 Owino Brian Otieno
 
-**Full-Stack Developer | AI & Data Systems Specialist | Python & JavaScript Developer | Available for Contract Work**
-
----
-
-## About Me
-
-I'm a versatile software developer with expertise in building intelligent systems, data applications, and interactive software. I specialize in:
-
-- **AI & Chatbots** — Streamlit applications, conversational systems, data automation
-- **3D Graphics & Games** — Java 3D rendering, game engines, real-time visualization
-- **Data Science** — Python data pipelines, dataset cleaning, analysis workflows
-- **Web Development** — React, JavaScript, responsive UI/UX
-- **System Design** — Backend architecture, database design, performance optimization
+**Full-Stack Developer | AI & Data Systems Specialist | Technical & Academic Writer | Python, JavaScript & Java**
 
 ---
 
-## Featured Projects
-
-### [AI Chatbot & Data Utilities](https://github.com/owino-brian/ai-chatbot-and-data-utilities)
-A professional Streamlit-based chatbot with integrated data cleaning pipelines. Features live information retrieval from GitHub, Stack Overflow, Wikipedia, and more. Includes file upload workspace, dataset preview, and CSV export.
-
-**Tech:** Python, Streamlit, Pandas, Requests  
-**Status:** Production-ready
+> 💼 **Available for Contract Work** — Custom AI systems, data automation, full-stack development, 3D graphics, and technical writing
 
 ---
 
-### [My Project Portfolio](https://github.com/owino-brian/my-project)
-A comprehensive portfolio showcasing six independent projects spanning multiple domains:
+## 🎯 What I Do
 
-- **Cosmic Explorer** — Java 3D space exploration game with custom rendering engine
-- **3D Flight Simulator** — Console-based C application with real-time physics
-- **3D Scene Engine** — C++ object-oriented rendering system
-- **Quantum Neural Dashboard** — React analytics platform with Three.js visualization
-- **Space Invaders** — Python/Pygame classic arcade game remake
-- **Architectural Renderer** — Java 2D graphics with procedural building design
+I build intelligent systems, production-ready applications, and deliver high-impact technical & academic content. Specializing in:
 
-**Tech:** Java, C, C++, Python, React, Three.js  
-**Highlights:** Custom 3D math libraries, real-time rendering, game physics
+| **AI & Automation** | **Data Systems** | **Web & Graphics** | **Writing & Documentation** |
+|---|---|---|---|
+| Streamlit chatbots | Python data pipelines | React applications | API Documentation |
+| LLM integrations | Dataset cleaning | Three.js 3D rendering | Technical Manuals |
+| Conversational AI | Data visualization | Accessible web apps | Academic Papers |
+| | | | Software Guides |
 
 ---
 
-### [Simple Calculator](https://github.com/owino-brian/Simple-Calculator)
-A clean, accessible web calculator with professional-grade features. Single-file HTML/CSS/JS app using safe expression evaluation (no eval), keyboard support, and ARIA accessibility.
+## 🚀 Featured Work
 
-**Tech:** HTML, CSS, JavaScript  
-**Features:** Responsive design, keyboard input, accessibility-first, secure evaluation
+### 🤖 **AI Chatbot & Data Utilities** 
+[Repository](https://github.com/owino-brian/ai-chatbot-and-data-utilities) | Production-ready Streamlit application
 
----
+A professional-grade chatbot with live data retrieval, file upload workspace, and automated data cleaning. Integrates GitHub, Stack Overflow, Wikipedia, and academic sources.
 
-### [Advanced Git Mastery](https://github.com/owino-brian/advanced-git-mastery)
-Comprehensive guide to advanced Git commands beyond the basics. Covers stash, cherry-pick, revert, reset, rebase, reflog, bisect, and real-world workflows.
-
-**Tech:** Markdown documentation  
-**For:** Developers, freelancers, contractors who need mastery of Git history management
+**Stack:** Python • Streamlit • Pandas • Requests | **Status:** Deployed
 
 ---
 
-## Tech Stack
+### 🎮 **Project Portfolio**
+[Repository](https://github.com/owino-brian/my-project) | Six diverse projects in one
+
+- **Cosmic Explorer** — Java 3D space game with custom rendering engine
+- **3D Flight Simulator** — Real-time console physics (C)
+- **Scene Engine** — Object-oriented 3D rendering (C++)
+- **Quantum Dashboard** — Analytics platform with Three.js (React)
+- **Space Invaders** — Pygame arcade remake (Python)
+- **Architecture Renderer** — Procedural 2D graphics (Java)
+
+**Stack:** Java • C • C++ • Python • React • Three.js | **Scope:** Full-stack showcase
+
+---
+
+### 🧮 **Simple Calculator**
+[Repository](https://github.com/owino-brian/Simple-Calculator) | Production-ready web app
+
+Secure, accessible calculator with safe expression evaluation (no `eval()`), keyboard support, and ARIA accessibility. Single-file deployment.
+
+**Stack:** HTML • CSS • JavaScript | **Features:** Responsive, accessible, secure
+
+---
+
+### 📚 **Advanced Git Mastery**
+[Repository](https://github.com/owino-brian/advanced-git-mastery) | Developer reference guide
+
+Comprehensive guide to advanced Git workflows beyond basics. Covers stash, cherry-pick, rebase, reflog, bisect, and real-world scenarios.
+
+**Stack:** Markdown documentation | **For:** Developers & contractors
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages:** Python, JavaScript, Java, C, C++, HTML/CSS, SQL  
-**Frameworks & Libraries:** React, Streamlit, Pandas, Three.js, Pygame, Recharts  
-**Tools & Platforms:** Git, GitHub, Docker, VS Code, Jupyter  
-**Specializations:** AI/ML, Data pipelines, 3D rendering, Web development, System design
+**Frameworks:** React, Streamlit, Pandas, Three.js, Pygame, Recharts  
+**Tools:** Git, GitHub, VS Code, Docker, Jupyter  
+**Specialties:** AI/ML, Data pipelines, 3D rendering, Full-stack web, System architecture
 
 ---
 
-## Current Focus
+## ✍️ Writing & Documentation
 
-- Building production-ready data and AI applications
-- Creating documentation and educational resources
-- Developing custom solutions for data automation and chatbot systems
-- Contributing to open-source projects
+**Technical Documentation:**
+- API documentation & integration guides
+- Software deployment manuals
+- System architecture documentation
+- Code walkthroughs & tutorials
+- Open-source repository documentation
 
----
+**Academic Writing:**
+- Research papers & literature reviews
+- Thesis & dissertation support
+- Academic formatting & structure
+- Technical proofreading & editing
+- Scholarly article preparation
 
-## Services & Availability
-
-I'm available for **contract work** on:
-
--Custom chatbot and AI integrations  
--Data pipeline automation and cleaning systems  
--Full-stack web development (React + backend)  
--3D graphics and game development  
--Software documentation and technical writing  
--Data analysis and visualization  
--Backend system design and optimization  
-
-**Need a custom solution?**  
-Email: brianowino47@gmail.com  
-GitHub Sponsors: https://github.com/sponsors/owino-brian  
-LinkedIn: https://www.linkedin.com/in/owinobrian  
+**Content Creation:**
+- Technical blog posts & articles
+- Developer guides & how-tos
+- Data analysis reports
+- AI/ML documentation
+- Research summaries
 
 ---
 
-## Recent Activity
+## 💼 Available Services
 
-- Built and deployed production Streamlit chatbot with live data retrieval
-- Developed comprehensive Git mastery guide for developers
-- Created accessible web calculator with secure math evaluation
-- Maintaining diverse portfolio of 3D graphics, games, and web projects
-
----
-
-## Goals & Vision
-
-I'm passionate about building intelligent systems that solve real problems. My goal is to help teams and individuals:
-
-- Automate complex data workflows
-- Deploy AI-powered applications
-- Build scalable backend systems
-- Create engaging interactive experiences
+✅ **Custom AI chatbots & integrations**  
+✅ **Data pipeline automation & cleaning**  
+✅ **Full-stack web development (React + backend)**  
+✅ **3D graphics & game development**  
+✅ **API documentation & technical writing**  
+✅ **Academic papers & literature reviews**  
+✅ **Data analysis & interactive dashboards**  
+✅ **Backend architecture & optimization**  
+✅ **Software manuals & deployment guides**  
+✅ **Technical editing & proofreading**  
 
 ---
 
-## Let's Connect
+## 📊 Quick Stats
 
-- **GitHub:** [@owino-brian](https://github.com/owino-brian)
-- **Email:** brianowino47@gmail.com
-- **LinkedIn:** [Owino Brian](https://www.linkedin.com/in/owinobrian)
-- **Google Scholar:** https://scholar.google.com/citations?user=DVx7VjIAAAAJ
-- **Sponsor:** https://github.com/sponsors/owino-brian
+- **4+ projects** spanning multiple domains
+- **Production-ready code** with clean architecture
+- **Multiple tech stacks** — Java, Python, JavaScript, C/C++
+- **Full-stack capabilities** — Frontend to backend to DevOps
+- **Expert documentation** — Technical, academic, and developer-focused
 
 ---
 
-*"Building intelligent systems and immersive experiences through code, mathematics, and design."*
+## 📞 Get In Touch
+
+**For contract inquiries, project discussions, or writing commissions:**
+
+- 📧 **Email:** [brianowino47@gmail.com](mailto:brianowino47@gmail.com)
+- 💼 **LinkedIn:** [Owino Brian](https://www.linkedin.com/in/owinobrian)
+- 🔗 **GitHub:** [@owino-brian](https://github.com/owino-brian)
+- 🌐 **Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=DVx7VjIAAAAJ)
+- 💰 **Support:** [GitHub Sponsors](https://github.com/sponsors/owino-brian)
+
+---
+
+## 🎓 Expertise Areas
+
+**Backend Development** — Python, Node.js, REST APIs, databases  
+**Frontend Development** — React, responsive design, accessibility  
+**Data Science** — Analysis, visualization, pipeline automation  
+**AI/ML** — Chatbots, LLM integration, prompt engineering  
+**Graphics** — 3D rendering, game development, visualization  
+**DevOps** — Deployment, CI/CD, containerization  
+**Technical Writing** — API docs, manuals, system guides  
+**Academic Writing** — Research papers, literature reviews, theses  
+
+---
+
+**Building intelligent systems, solving complex problems, and documenting it all exceptionally.** 🚀
