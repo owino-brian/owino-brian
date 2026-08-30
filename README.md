@@ -1,14 +1,14 @@
-# 👋 Owino Brian Otieno
+# Owino Brian Otieno
 
 **Full-Stack Developer | AI & Data Systems Specialist | Technical & Academic Writer | Python, JavaScript & Java**
 
 ---
 
-> 💼 **Available for Contract Work** — Custom AI systems, data automation, full-stack development, 3D graphics, and technical writing
+> **Available for Contract Work** — Custom AI systems, data automation, full-stack development, 3D graphics, and technical writing
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
 I build intelligent systems, production-ready applications, and deliver high-impact technical & academic content. Specializing in:
 
@@ -21,9 +21,9 @@ I build intelligent systems, production-ready applications, and deliver high-imp
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
-### 🤖 **AI Chatbot & Data Utilities** 
+### **AI Chatbot & Data Utilities** 
 [Repository](https://github.com/owino-brian/ai-chatbot-and-data-utilities) | Production-ready Streamlit application
 
 A professional-grade chatbot with live data retrieval, file upload workspace, and automated data cleaning. Integrates GitHub, Stack Overflow, Wikipedia, and academic sources.
@@ -32,7 +32,7 @@ A professional-grade chatbot with live data retrieval, file upload workspace, an
 
 ---
 
-### 🎮 **Project Portfolio**
+### **Project Portfolio**
 [Repository](https://github.com/owino-brian/my-project) | Six diverse projects in one
 
 - **Cosmic Explorer** — Java 3D space game with custom rendering engine
@@ -46,7 +46,7 @@ A professional-grade chatbot with live data retrieval, file upload workspace, an
 
 ---
 
-### 🧮 **Simple Calculator**
+### **Simple Calculator**
 [Repository](https://github.com/owino-brian/Simple-Calculator) | Production-ready web app
 
 Secure, accessible calculator with safe expression evaluation (no `eval()`), keyboard support, and ARIA accessibility. Single-file deployment.
@@ -55,7 +55,7 @@ Secure, accessible calculator with safe expression evaluation (no `eval()`), key
 
 ---
 
-### 📚 **Advanced Git Mastery**
+### **Advanced Git Mastery**
 [Repository](https://github.com/owino-brian/advanced-git-mastery) | Developer reference guide
 
 Comprehensive guide to advanced Git workflows beyond basics. Covers stash, cherry-pick, rebase, reflog, bisect, and real-world scenarios.
@@ -64,7 +64,7 @@ Comprehensive guide to advanced Git workflows beyond basics. Covers stash, cherr
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python, JavaScript, Java, C, C++, HTML/CSS, SQL  
 **Frameworks:** React, Streamlit, Pandas, Three.js, Pygame, Recharts  
@@ -73,7 +73,7 @@ Comprehensive guide to advanced Git workflows beyond basics. Covers stash, cherr
 
 ---
 
-## ✍️ Writing & Documentation
+## Writing & Documentation
 
 **Technical Documentation:**
 - API documentation & integration guides
@@ -98,7 +98,7 @@ Comprehensive guide to advanced Git workflows beyond basics. Covers stash, cherr
 
 ---
 
-## 💼 Available Services
+## Available Services
 
 ✅ **Custom AI chatbots & integrations**  
 ✅ **Data pipeline automation & cleaning**  
@@ -113,7 +113,7 @@ Comprehensive guide to advanced Git workflows beyond basics. Covers stash, cherr
 
 ---
 
-## 📊 Quick Stats
+## Quick Stats
 
 - **4+ projects** spanning multiple domains
 - **Production-ready code** with clean architecture
@@ -123,19 +123,19 @@ Comprehensive guide to advanced Git workflows beyond basics. Covers stash, cherr
 
 ---
 
-## 📞 Get In Touch
+## Get In Touch
 
 **For contract inquiries, project discussions, or writing commissions:**
 
-- 📧 **Email:** [brianowino47@gmail.com](mailto:brianowino47@gmail.com)
-- 💼 **LinkedIn:** [Owino Brian](https://www.linkedin.com/in/owinobrian)
-- 🔗 **GitHub:** [@owino-brian](https://github.com/owino-brian)
-- 🌐 **Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=DVx7VjIAAAAJ)
-- 💰 **Support:** [GitHub Sponsors](https://github.com/sponsors/owino-brian)
+- **Email:** [brianowino47@gmail.com](mailto:brianowino47@gmail.com)
+- **LinkedIn:** [Owino Brian](https://www.linkedin.com/in/owinobrian)
+- **GitHub:** [@owino-brian](https://github.com/owino-brian)
+- **Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=DVx7VjIAAAAJ)
+- **Support:** [GitHub Sponsors](https://github.com/sponsors/owino-brian)
 
 ---
 
-## 🎓 Expertise Areas
+## Expertise Areas
 
 **Backend Development** — Python, Node.js, REST APIs, databases  
 **Frontend Development** — React, responsive design, accessibility  
@@ -148,4 +148,4 @@ Comprehensive guide to advanced Git workflows beyond basics. Covers stash, cherr
 
 ---
 
-**Building intelligent systems, solving complex problems, and documenting it all exceptionally.** 🚀
+**Building intelligent systems, solving complex problems, and documenting it all exceptionally.** 
